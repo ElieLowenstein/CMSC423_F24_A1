@@ -1,0 +1,11 @@
+{
+"min_len" : 67,
+"max_len" : 249,
+"tot_len" : 18839,
+"num_records" : 123,
+"mean_len" : 153.16260162601625,
+"count_a" : 4714,
+"count_c" : 4766,
+"count_g" : 4635,
+"count_t" : 4724
+}
